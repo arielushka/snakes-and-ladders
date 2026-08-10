@@ -1,0 +1,8 @@
+# Keep the school project; ignore the bundled Borland/TASM tools and generated files.
+*
+!.gitignore
+!README.md
+!*.asm
+!*.bmp
+!BASE.EXE
+!*.pdf
