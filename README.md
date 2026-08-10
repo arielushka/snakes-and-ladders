@@ -22,8 +22,8 @@ base
 אם TASM ו-TLINK מותקנים וזמינים ב-DOSBox:
 
 ```dos
-tasm base.asm
-tlink base.obj
+tasm /zi base.asm
+tlink /v base.obj
 base
 ```
 
